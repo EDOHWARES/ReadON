@@ -9,7 +9,7 @@ import { FaGgCircle } from "react-icons/fa";
 const Hero = () => {
   return (
     <div>
-      <div className="content grid grid-cols-2 gap-y-20 items-start justify-between mb-10 ">
+      <div className="content grid grid-cols-2 gap-y-20 items-start justify-between mb-20 ">
         <div className="">
           <h1 className="text-[64px] text-[#171A1FFF] leading-tight mb-[1rem] font-bold">
             ReadON Prep, Ace <br /> your Exams on the Go!
